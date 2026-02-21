@@ -162,8 +162,3 @@ Contributes are welcome!
 <br>Thank you!
 
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/snehal-jadhav-1b1101305/" width="74" height="60" alt="linkedin logo"  />
-  <img src="snehalljadhav395@gmail.com" width="74" height="60" alt="gmail logo"  />
-</div>
-
