@@ -39,7 +39,9 @@
 ![F1 Score](https://img.shields.io/badge/F1%20Score-0.88-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+## 🎥 Project Demo
 
+[![Watch Demo](https://screenrec.com/share/2vZYSJiayT)](https://screenrec.com/share/2vZYSJiayT)
 
 ## 📈 Model Performance
 
@@ -160,5 +162,6 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
