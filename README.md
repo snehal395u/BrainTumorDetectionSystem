@@ -45,7 +45,7 @@
 
 ## 🎥 Demo Preview
 
-👉 [Click here to watch full screen demo](demo.mp4)
+👉 [Click here to watch full screen demo](https://screenrec.com/share/2vZYSJiayT)
 
 ## 📈 Model Performance
 
@@ -166,6 +166,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
 
