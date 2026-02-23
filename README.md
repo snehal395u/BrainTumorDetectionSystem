@@ -41,7 +41,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch Demo](https://screenrec.com/share/2vZYSJiayT)](https://screenrec.com/share/2vZYSJiayT)
+![Project Demo](demo1.gif)
 
 ## 📈 Model Performance
 
@@ -162,6 +162,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
 
