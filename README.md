@@ -41,11 +41,8 @@
 
 ## 🎥 Project Demo
 
-![Project Demo](demo.mp4)
+![Project Demo](demo1.gif)
 
-<video width="700" controls>
-  <source src="https://github.com/your-username/your-repo/raw/main/demo.mp4" type="video/mp4">
-</video>
 ## 📈 Model Performance
 
 | Metric | Validation | Test |
@@ -165,6 +162,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
 
