@@ -43,6 +43,10 @@
 
 ![Project Demo](demo1.gif)
 
+## 🎥 Demo Preview
+
+👉 [Click here to watch full screen demo](demo.mp4)
+
 ## 📈 Model Performance
 
 | Metric | Validation | Test |
@@ -162,6 +166,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
 
