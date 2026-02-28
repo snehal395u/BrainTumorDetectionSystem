@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=🧠%20Brain%20Tumor%20Detection%20using%20CNN&fontSize=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=🧠%20AI%20Brain%20Tumor%20Detection%20using%20CNN&fontSize=35&fontColor=ffffff)
 <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo"  />
@@ -166,6 +166,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 Contributes are welcome!
 <br>Thank you!
+
 
 
 
